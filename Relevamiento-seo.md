@@ -1,34 +1,82 @@
 Relevamiento SEO — Yeruvá S.A.
 
-1. Introducción
+1. Resumen ejecutivo
 
-El presente documento contiene un relevamiento inicial del estado SEO del sitio web de Yeruvá S.A., tomando como referencia buenas prácticas de SEO On-Page, estructura semántica, indexación y organización de contenidos.
+Este relevamiento presenta un diagnóstico inicial del estado SEO del sitio web de Yeruvá S.A. (https://yeruva.com.ar/).
 
-2. Encabezados HTML
+El sitio cuenta con una base de contenido técnico y comercial sólida, especialmente en sus unidades de negocio, páginas de productos, investigación, calidad y fichas técnicas. La principal oportunidad no consiste en agregar grandes cantidades de contenido, sino en ordenar la estructura semántica, mejorar los elementos SEO del Head y potenciar las páginas de producto para búsquedas B2B específicas.
+
+Los puntos de mayor impacto detectados son la optimización del H1 de la Home, la reorganización de encabezados, la revisión de duplicaciones responsive y la validación técnica de robots.txt, sitemap, indexación y metadatos.
+
+2. Alcance y metodología
+
+El análisis se realizó sobre la versión pública del sitio web de Yeruvá.
+
+Alcance
+
+Se evaluaron:
+
+estructura de encabezados;
+
+contenido de la Home;
+
+páginas institucionales;
+
+unidades de negocio;
+
+productos;
+
+fichas técnicas PDF;
+
+arquitectura;
+
+enlaces internos;
+
+elementos SEO del Head;
+
+Open Graph;
+
+rastreo e indexación;
+
+oportunidades de posicionamiento.
+
+Metodología
+
+Revisión de la estructura visible y semántica del sitio.
+
+Análisis de encabezados HTML.
+
+Revisión de contenidos y arquitectura.
+
+Evaluación de unidades de negocio y productos.
+
+Revisión de oportunidades SEO B2B.
+
+Identificación de verificaciones pendientes que requieren acceso técnico o manual.
+
+3. Encabezados HTML
 
 H1
 
-Estado actual: La Home presenta un único H1 visible: YERUVÁ S.A..
+La Home presenta como H1 visible:
 
-Evaluación: Mejorable.
+YERUVÁ S.A.
 
-Prioridad: Alta.
+Observación: aunque técnicamente existe un H1, el nombre de la empresa por sí solo no describe la actividad principal.
 
-Impacto SEO: La marca por sí sola no comunica con suficiente claridad la actividad principal del sitio.
-
-Se recomienda que el H1 describa la propuesta de valor principal.
-
-Ejemplo:
+Recomendación:
 
 Proteínas funcionales para alimentación humana y nutrición animal
 
+La marca puede mantenerse visualmente destacada sin necesidad de funcionar como único encabezado principal.
+
 H2, H3 y H4
 
-La Home contiene secciones relevantes relacionadas con:
+La Home contiene secciones relacionadas con:
 
 Nuestras Unidades de Negocio.
 
-Nuestros productos.
+Nuestros Productos.
 
 Proteínas Funcionales para Alimentación Humana.
 
@@ -46,19 +94,19 @@ Novedades.
 
 Contacto.
 
-Evaluación: Mejorable.
-
-Se observan duplicaciones de algunos bloques, posiblemente relacionadas con versiones independientes para escritorio y dispositivos móviles.
+Hallazgo: se observan duplicaciones de algunos encabezados y bloques, posiblemente asociadas a versiones separadas para escritorio y dispositivos móviles.
 
 Estructura recomendada
 
 H1 – Proteínas funcionales para alimentación humana y nutrición animal
 
 H2 – Yeruvá S.A.
+
 H2 – Nuestras unidades de negocio
     H3 – Hemoderivados
     H3 – Derivados lácteos
     H3 – Levaduras de cerveza
+
 H2 – Proteínas funcionales para alimentación humana
 H2 – Proteínas funcionales para nutrición animal
 H2 – Investigación, desarrollo e innovación
@@ -67,17 +115,19 @@ H2 – 30 años de trayectoria
 H2 – Novedades
 H2 – Contacto
 
-3. Contenido de la Home
+4. Contenido
 
-Estado actual: Bueno.
+Home
 
-La página principal ya contiene información real y específica sobre la actividad de Yeruvá.
+La página principal ya dispone de una buena base temática.
 
-Conceptos relevantes detectados:
+Conceptos detectados:
 
 proteínas funcionales;
 
-industria animal y humana;
+alimentación humana;
+
+nutrición animal;
 
 hemoderivados;
 
@@ -85,25 +135,17 @@ derivados lácteos;
 
 levaduras de cerveza;
 
-alimentación humana;
-
-nutrición animal;
-
 alto valor nutricional;
 
 aplicaciones industriales.
 
-Evaluación
+Observación: no se recomienda agregar grandes bloques de texto únicamente para aumentar el volumen de palabras.
 
-No se considera necesario incorporar grandes cantidades de texto únicamente para aumentar el volumen de contenido.
+La prioridad debe ser mejorar la organización y reforzar los conceptos de mayor valor comercial.
 
-La prioridad debería ser organizar y optimizar el contenido existente, reforzando las temáticas con mayor valor comercial.
+5. Arquitectura y navegación
 
-4. Arquitectura de contenidos
-
-Estado actual: Buena base y gran oportunidad SEO.
-
-El sitio ya cuenta con diferentes secciones y páginas especializadas:
+El sitio ya cuenta con páginas especializadas para:
 
 Nosotros.
 
@@ -121,25 +163,19 @@ Productos.
 
 Novedades.
 
-Esta arquitectura permite desarrollar clusters SEO específicos para cada unidad de negocio y para productos concretos.
+Esta arquitectura ofrece una base adecuada para construir clusters SEO específicos por unidad de negocio y producto.
 
-5. Página Nosotros
-
-Estado actual: Mejorable.
+6. Página Nosotros
 
 Se detecta el H1:
 
 Sobre Yeruvá: innovación en la industria alimentaria
 
-Sin embargo, aparece avanzado el contenido, mientras que previamente se presenta YERUVÁ S.A. con otra jerarquía de encabezado.
+Observación: el encabezado es adecuado desde el punto de vista conceptual, pero aparece avanzado el contenido.
 
-Recomendación
+La página contiene información relevante sobre:
 
-El H1 existente es conceptualmente correcto y puede conservarse, pero debería ubicarse al comienzo de la estructura semántica.
-
-La página ya contiene información valiosa relacionada con:
-
-trayectoria de la empresa;
+trayectoria de Yeruvá;
 
 investigación y desarrollo;
 
@@ -151,13 +187,15 @@ unidades productivas;
 
 actividad industrial.
 
-6. Unidades de negocio
+Recomendación: mantener el contenido y mejorar principalmente su jerarquía semántica.
 
-Estado actual: Gran potencial SEO.
+7. Unidades de negocio
+
+Las unidades de negocio representan una de las principales oportunidades SEO del sitio.
 
 Hemoderivados
 
-La página presenta productos como:
+La página incluye productos como:
 
 Yeralbum UF16 P.
 
@@ -171,7 +209,7 @@ Yerhem P.
 
 Yerhem.
 
-Existe potencial para trabajar búsquedas relacionadas con:
+Oportunidades de búsqueda
 
 proteínas funcionales de origen animal;
 
@@ -189,27 +227,21 @@ harina de sangre;
 
 proteínas para alimentación animal.
 
-La misma metodología debería aplicarse posteriormente a Derivados lácteos y Levaduras.
+La misma metodología debería aplicarse a Derivados lácteos y Levaduras.
 
-7. Duplicaciones responsive
+8. Duplicaciones responsive
 
-Estado actual: Mejorable.
+Se observan bloques y encabezados duplicados que probablemente correspondan a versiones diferentes para desktop y mobile.
 
-Se observan bloques y encabezados duplicados que probablemente correspondan a versiones diferentes del mismo contenido para escritorio y dispositivos móviles.
+Impacto: no representa automáticamente una penalización SEO, pero genera una estructura HTML menos limpia.
 
-Impacto
+Recomendación: evaluar si los bloques pueden resolverse mediante componentes responsive únicos.
 
-No debe interpretarse automáticamente como una penalización SEO, pero genera una estructura HTML menos limpia y puede dificultar la correcta interpretación semántica de la página.
+9. SEO Head
 
-Recomendación
+Esta área debe revisarse página por página durante la implementación.
 
-Evaluar si el diseño puede resolverse mediante componentes responsive únicos en lugar de duplicar contenidos completos.
-
-8. Etiquetas SEO del Head
-
-Esta área requiere una revisión específica página por página.
-
-Los principales elementos a verificar y optimizar son:
+Elementos a verificar
 
 Meta Title.
 
@@ -221,9 +253,15 @@ Meta Robots.
 
 Favicon.
 
-9. Open Graph
+Open Graph.
 
-Se recomienda revisar:
+Twitter Cards si corresponde.
+
+Cada página estratégica debería contar con títulos y descripciones propios, alineados con su temática e intención de búsqueda.
+
+10. Open Graph
+
+Se deberá revisar:
 
 og:title;
 
@@ -245,40 +283,38 @@ Imagen recomendada
 
 1200 x 630 px
 
-Preferentemente en formato JPG o PNG.
+Preferentemente JPG o PNG.
 
-10. Robots.txt
+11. Estado de indexación y rastreo
 
-Estado: Requiere verificación manual.
+robots.txt
+
+Estado: pendiente de validación manual.
 
 URL:
 
 https://yeruva.com.ar/robots.txt
 
-Se deberá comprobar:
-
-existencia del archivo;
+Verificar:
 
 reglas de rastreo;
 
-posibles bloqueos;
+bloqueos;
 
-acceso a recursos necesarios;
+referencia al sitemap;
 
-declaración del Sitemap XML.
+acceso a recursos necesarios.
 
-11. Sitemap XML
+Sitemap XML
 
-Estado: Requiere verificación manual.
+Estado: pendiente de validación manual.
 
 Posibles ubicaciones:
 
 https://yeruva.com.ar/sitemap_index.xml
 https://yeruva.com.ar/wp-sitemap.xml
 
-Se deberá comprobar:
-
-existencia;
+Verificar:
 
 funcionamiento;
 
@@ -286,31 +322,27 @@ páginas incluidas;
 
 productos incluidos;
 
-ausencia de URLs que no deban indexarse;
+URLs innecesarias;
 
-correcta lectura desde Google Search Console.
+lectura desde Google Search Console.
 
-12. Página 404
+Página 404
 
-Estado: Requiere verificación.
+Validar que:
 
-La página de error debería:
+devuelva HTTP 404 real;
 
-devolver un código HTTP 404 real;
+mantenga identidad visual;
 
-mantener la identidad visual del sitio;
+permita navegación;
 
-permitir regresar al inicio;
+no funcione como soft 404.
 
-ofrecer navegación;
+12. Fichas técnicas PDF
 
-evitar comportarse como un soft 404.
+Yeruvá cuenta con documentación técnica de alto valor SEO y comercial.
 
-13. Fichas técnicas PDF
-
-Estado actual: Oportunidad SEO importante.
-
-Yeruvá dispone de documentación técnica de productos con información específica sobre:
+Las fichas contienen información relacionada con:
 
 composición;
 
@@ -324,7 +356,7 @@ habilitaciones;
 
 información técnica.
 
-Estrategia recomendada
+Arquitectura recomendada
 
 Página HTML del producto
         │
@@ -335,9 +367,11 @@ Página HTML del producto
         │
         └── Ficha técnica PDF
 
-14. Enlaces internos
+Objetivo: que la página HTML sea el recurso principal para indexación y que el PDF funcione como documentación complementaria.
 
-La estructura actual permite desarrollar una red de enlaces internos entre:
+13. Enlaces internos
+
+La arquitectura permite establecer relaciones claras:
 
 Home
  ↓
@@ -347,13 +381,19 @@ Producto
  ↓
 Ficha técnica
 
-También se recomienda relacionar las novedades con productos y unidades de negocio cuando exista una vinculación temática real.
+También:
 
-15. Novedades
+Novedad / contenido técnico
+ ↓
+Unidad de negocio
+ ↓
+Producto relacionado
 
-La sección de novedades representa una oportunidad para ampliar progresivamente la autoridad temática del dominio.
+El enlazado interno ayudará a Google a comprender la relación entre las distintas áreas del sitio.
 
-Puede utilizarse para publicar contenidos relacionados con:
+14. Novedades
+
+La sección de novedades puede utilizarse para ampliar autoridad temática mediante contenidos relacionados con:
 
 aplicaciones de proteínas funcionales;
 
@@ -361,154 +401,96 @@ nutrición animal;
 
 alimentación humana;
 
+innovación;
+
 investigación;
 
-innovación;
+procesos productivos;
 
 nuevos productos;
 
-procesos;
+eventos técnicos.
 
-eventos técnicos;
+No se recomienda publicar contenido sin una finalidad temática o comercial clara.
 
-participación institucional.
+15. Hallazgos principales
 
-16. Resumen de hallazgos
+[ALTO] H1 de la Home poco descriptivo: comunica marca, pero no actividad.
 
-Área
+[MEDIO/ALTO] Jerarquía de encabezados mejorable: existen oportunidades para ordenar H2/H3/H4.
 
-Estado
+[MEDIO] Duplicaciones responsive: bloques repetidos por adaptación visual.
 
-Prioridad
+[ALTO] Unidades de negocio con fuerte potencial SEO: pueden posicionar búsquedas específicas.
 
-Contenido existente
+[ALTO] Productos con potencial B2B: permiten captar consultas técnicas y comerciales.
 
-Bueno
+[MEDIO] PDFs técnicos desaprovechados: deben reforzar, y no reemplazar, las páginas HTML.
 
-—
+[ALTO] SEO Head pendiente de optimización sistemática: Titles, Meta Descriptions y Open Graph.
 
-H1 Home
+[ALTO] Rastreo e indexación pendientes de validación: robots.txt, sitemap y Search Console.
 
-Mejorable
+16. Oportunidades SEO
 
-Alta
+Posicionar Yeruvá por productos y aplicaciones además de la marca.
 
-H2/H3/H4
+Construir clusters SEO por unidad de negocio.
 
-Mejorable
+Desarrollar páginas de producto con mayor profundidad técnica.
 
-Media/Alta
+Aprovechar documentación existente.
 
-Duplicaciones responsive
+Mejorar enlaces internos.
 
-Mejorable
+Utilizar Novedades para ampliar autoridad temática.
 
-Media
+Evaluar SEO internacional si responde a objetivos comerciales reales.
 
-Unidades de negocio
+17. Prioridades de implementación
 
-Gran potencial
+Prioridad inmediata
 
-Alta
+Revisar robots.txt.
 
-Páginas de productos
+Verificar sitemap XML.
 
-Gran potencial
+Validar indexación.
 
-Alta
+Auditar Meta Titles y Meta Descriptions.
 
-Fichas técnicas PDF
+Revisar Canonical y Meta Robots.
 
-Oportunidad
+Optimizar el H1 de la Home.
 
-Media
-
-Contenido institucional
-
-Bueno
-
-Media
-
-Novedades
-
-Buen potencial
-
-Media
-
-Robots.txt
-
-Pendiente de verificación
-
-Alta
-
-Sitemap XML
-
-Pendiente de verificación
-
-Alta
-
-Página 404
-
-Pendiente de verificación
-
-Baja
-
-SEO técnico del Head
-
-Requiere revisión
-
-Alta
-
-17. Prioridades detectadas
-
-Prioridad alta
-
-Mejorar el H1 de la Home.
-
-Revisar Meta Titles y Meta Descriptions.
-
-Verificar robots.txt.
-
-Verificar Sitemap XML.
-
-Revisar indexación.
-
-Optimizar las unidades de negocio.
-
-Definir la estrategia SEO de productos.
-
-Prioridad media
+Corto plazo
 
 Reorganizar H2/H3/H4.
 
 Revisar duplicaciones responsive.
 
-Mejorar enlaces internos.
+Optimizar páginas institucionales.
 
-Optimizar fichas de producto.
+Mejorar Open Graph.
 
-Revisar Open Graph.
+Fortalecer enlaces internos.
 
-Potenciar contenido técnico existente.
+Mediano plazo
 
-Prioridad baja
+Optimizar unidades de negocio.
 
-Revisar página 404.
+Priorizar productos comerciales.
 
-Mejorar progresivamente contenidos complementarios.
+Mejorar páginas de producto.
 
-Normalizar detalles menores de estructura HTML.
+Integrar correctamente fichas técnicas.
 
-18. Conclusión técnica inicial
+Desarrollar contenidos técnicos estratégicos.
 
-Yeruvá cuenta con una base de contenido considerablemente sólida para desarrollar una estrategia SEO especializada.
+18. Conclusión técnica
 
-La empresa ya dispone de información técnica, unidades de negocio diferenciadas, productos específicos, contenido institucional, investigación y desarrollo, novedades y documentación técnica.
+Yeruvá cuenta con una base de contenido sólida para desarrollar una estrategia SEO especializada.
 
-Por este motivo, el trabajo debería concentrarse en tres pilares:
+La principal oportunidad no está en aumentar indiscriminadamente la cantidad de texto, sino en ordenar la arquitectura existente y transformar sus unidades de negocio, productos y documentación técnica en activos de posicionamiento.
 
-SEO técnico: mejorar la forma en que Google rastrea e indexa el sitio.
-
-SEO semántico: ordenar la arquitectura y distribuir correctamente las temáticas.
-
-SEO B2B de producto: posicionar a Yeruvá por las soluciones y productos que desarrolla, además de las búsquedas directas de marca.
+El sitio tiene potencial para ampliar su visibilidad desde búsquedas de marca hacia consultas B2B específicas relacionadas con proteínas funcionales, nutrición animal, alimentación humana, hemoderivados, derivados lácteos, levaduras y productos técnicos.
