@@ -1,76 +1,52 @@
-Propuesta de Mejora SEO — Yeruvá S.A.
+Propuesta SEO — Yeruvá S.A.
 
 1. Objetivo
 
-El objetivo de esta intervención es fortalecer el posicionamiento orgánico de Yeruvá S.A., aprovechando el contenido técnico y comercial que actualmente posee el sitio.
+El objetivo principal de esta propuesta es fortalecer el posicionamiento orgánico de Yeruvá S.A. mediante una estrategia SEO técnica, semántica y comercial orientada al mercado B2B.
 
-La estrategia buscará que la empresa pueda ser encontrada no solamente mediante búsquedas relacionadas con la marca Yeruvá, sino también por productos, aplicaciones y soluciones vinculadas con sus principales áreas de actividad:
+La propuesta busca que Yeruvá pueda ser encontrada no solamente por búsquedas directas de marca, sino también por consultas relacionadas con sus productos, aplicaciones y unidades de negocio.
 
-Proteínas funcionales.
+2. Posicionamiento propuesto
 
-Nutrición animal.
+Se propone posicionar a Yeruvá como referente en el desarrollo y producción de:
 
-Alimentación humana.
+proteínas funcionales;
 
-Hemoderivados.
+ingredientes funcionales;
 
-Derivados lácteos.
+proteínas para alimentación humana;
 
-Levaduras de cerveza.
+proteínas para nutrición animal;
 
-Ingredientes funcionales para diferentes industrias.
+hemoderivados;
 
-2. Enfoque estratégico
+derivados lácteos;
 
-La propuesta SEO se estructura sobre tres pilares principales.
+levaduras de cerveza;
 
-SEO técnico
+soluciones técnicas para industrias.
 
-Revisar y optimizar:
+El enfoque debe mantenerse alineado con las prioridades comerciales reales de la empresa.
 
-títulos SEO;
+3. Intención de búsqueda
 
-meta descriptions;
+El sitio deberá captar principalmente consultas:
 
-canonical;
+B2B: empresas, industrias, formuladores y compradores técnicos.
 
-robots.txt;
+Informativas: usuarios que buscan información sobre ingredientes, aplicaciones y características.
 
-sitemap XML;
+Comerciales: búsquedas de proveedores, productos y soluciones específicas.
 
-indexación;
+De producto: consultas sobre plasma, hemoglobina, derivados lácteos y levaduras.
 
-Open Graph;
+De marca: búsquedas directas relacionadas con Yeruvá y sus productos.
 
-página 404;
-
-estructura de encabezados HTML.
-
-SEO semántico
-
-Ordenar el contenido existente para que cada página tenga una temática claramente definida y una correcta jerarquía de encabezados.
-
-Yeruvá
-  ↓
-Proteínas funcionales
-  ↓
-Alimentación humana / Nutrición animal
-  ↓
-Unidades de negocio
-  ↓
-Productos
-  ↓
-Aplicaciones
-
-SEO B2B de productos
-
-Desarrollar el potencial de las páginas de productos para captar búsquedas técnicas y comerciales específicas.
-
-3. Estrategia de palabras clave
+4. Estrategia de palabras clave
 
 Home
 
-Concepto principal:
+Frase conceptual principal:
 
 Proteínas funcionales para alimentación humana y nutrición animal
 
@@ -86,7 +62,7 @@ alimentación humana;
 
 proteínas de origen animal;
 
-ingredientes para la industria alimentaria.
+ingredientes para industria alimentaria.
 
 Hemoderivados
 
@@ -106,7 +82,7 @@ proteínas funcionales de origen animal.
 
 Derivados lácteos
 
-Trabajar búsquedas específicas relacionadas con los productos y aplicaciones reales de esta unidad de negocio.
+Definir palabras clave específicas según los productos y aplicaciones prioritarios.
 
 Levaduras
 
@@ -118,11 +94,9 @@ ingredientes para nutrición animal;
 
 aplicaciones industriales de levaduras.
 
-La selección definitiva deberá ajustarse a los productos y mercados que comercialmente Yeruvá quiera priorizar.
+5. Optimización de la Home
 
-4. Optimización de la Home
-
-La página principal ya cuenta con contenido relevante, por lo que no se recomienda incorporar grandes bloques adicionales.
+La Home ya cuenta con contenido relevante, por lo que no se recomienda incorporar grandes cantidades de texto.
 
 H1 propuesto
 
@@ -139,10 +113,12 @@ Jerarquía recomendada
 H1 – Proteínas funcionales para alimentación humana y nutrición animal
 
 H2 – Yeruvá S.A.
+
 H2 – Nuestras unidades de negocio
     H3 – Hemoderivados
     H3 – Derivados lácteos
     H3 – Levaduras de cerveza
+
 H2 – Proteínas funcionales para alimentación humana
 H2 – Proteínas funcionales para nutrición animal
 H2 – Investigación, desarrollo e innovación
@@ -151,9 +127,9 @@ H2 – 30 años de trayectoria
 H2 – Novedades
 H2 – Contacto
 
-5. Meta Title y Meta Description
+6. Meta Title y Meta Description
 
-Cada página estratégica deberá tener configuraciones propias.
+Las páginas estratégicas deberían contar con configuraciones propias.
 
 Home
 
@@ -165,37 +141,39 @@ Meta Description sugerida:
 
 Yeruvá desarrolla proteínas funcionales e ingredientes para alimentación humana y nutrición animal mediante hemoderivados, lácteos y levaduras.
 
-6. Unidades de negocio
+Las configuraciones definitivas deberán ajustarse durante la implementación página por página.
 
-Las páginas de Hemoderivados, Derivados lácteos y Levaduras deberían convertirse en páginas estratégicas de posicionamiento.
+7. Unidades de negocio
 
-Cada una debería contener:
+Las páginas de Hemoderivados, Derivados lácteos y Levaduras deben convertirse en páginas estratégicas de posicionamiento.
+
+Cada unidad debería incluir:
 
 H1 específico.
 
-Introducción clara.
+Introducción.
 
-Descripción de la unidad.
+Descripción técnica.
 
 Productos relacionados.
 
 Aplicaciones.
 
-Sectores donde se utilizan.
+Sectores de uso.
 
-Enlaces hacia productos.
+Enlaces internos.
 
 Documentación técnica.
 
-Enlaces hacia otras áreas relacionadas.
+8. Páginas de productos
 
-7. Páginas de productos
+Las páginas individuales representan uno de los activos con mayor potencial.
 
-Cada producto debería contar, cuando la información comercial disponible lo permita, con:
+Cada producto debería contener:
 
 H1 único.
 
-Descripción.
+Descripción clara.
 
 Características.
 
@@ -207,41 +185,53 @@ Documentación.
 
 Productos relacionados.
 
-La página HTML debe ser el principal recurso indexable y la ficha PDF funcionar como documentación técnica complementaria.
+Enlaces internos.
 
-8. Fichas técnicas PDF
+Arquitectura recomendada
 
-La relación recomendada es:
-
-Página de producto
+Unidad de negocio
         ↓
-Información técnica y comercial
+Producto
         ↓
-Aplicaciones
+Descripción y aplicaciones
         ↓
 Características
         ↓
 Ficha técnica PDF
 
-9. Página Nosotros
+9. Fichas técnicas
 
-La principal intervención debería ser estructural:
+Los PDFs técnicos deben mantenerse como documentación complementaria.
 
-colocar el H1 al comienzo;
+Se recomienda:
 
-ordenar H2/H3;
+conservarlos accesibles;
 
-eliminar duplicaciones responsive cuando sea posible;
+utilizar nombres de archivo descriptivos;
 
-mantener información sobre trayectoria;
+enlazarlos desde la página HTML correspondiente;
 
-destacar investigación y desarrollo;
+evitar que concentren toda la información relevante del producto.
 
-mantener referencias a unidades productivas y especialización.
+10. Páginas institucionales
 
-10. Calidad e I+D+i
+Nosotros
 
-Estas páginas deberían reforzar conceptos relacionados con:
+Priorizar:
+
+jerarquía H1/H2;
+
+trayectoria;
+
+investigación;
+
+especialización;
+
+unidades productivas.
+
+Calidad e I+D+i
+
+Reforzar:
 
 investigación;
 
@@ -249,7 +239,7 @@ desarrollo;
 
 innovación;
 
-procesos productivos;
+procesos;
 
 control de calidad;
 
@@ -259,13 +249,15 @@ trazabilidad;
 
 tecnología;
 
-estándares y certificaciones efectivamente disponibles.
+certificaciones reales.
 
-11. Novedades y contenidos
+Estas páginas deberían enlazar hacia productos y unidades de negocio cuando exista una relación temática.
 
-La sección de novedades puede utilizarse estratégicamente para ampliar la autoridad temática del dominio.
+11. Contenidos y novedades
 
-Se recomienda incorporar progresivamente contenidos relacionados con:
+La sección de Novedades puede utilizarse para ampliar la autoridad temática.
+
+Temáticas sugeridas:
 
 aplicaciones de proteínas funcionales;
 
@@ -273,111 +265,81 @@ nutrición animal;
 
 alimentación humana;
 
-tecnología de ingredientes;
+nuevos productos;
 
 innovación;
 
+investigación;
+
 procesos productivos;
 
-participación en eventos técnicos;
+eventos técnicos.
 
-nuevos productos;
-
-investigación y desarrollo.
+La estrategia debe priorizar calidad y relevancia por sobre volumen de publicaciones.
 
 12. Enlaces internos
 
-Ejemplo:
+Se propone una arquitectura de navegación contextual:
 
 Home
  ↓
-Nutrición animal
- ↓
-Hemoderivados
+Unidad de negocio
  ↓
 Producto
  ↓
 Ficha técnica
 
-También:
+Y:
 
-Novedad o contenido técnico
+Novedad
  ↓
-Unidad de negocio
+Unidad de negocio relacionada
  ↓
-Producto relacionado
+Producto
 
 13. SEO técnico
 
-Durante la implementación se deberá verificar:
+Durante la implementación se deberá:
 
-robots.txt;
+revisar robots.txt;
 
-sitemap XML;
+verificar sitemap XML;
 
-Google Search Console;
+configurar Google Search Console;
 
-URLs indexables;
+revisar indexación;
 
-canonical;
+auditar Meta Titles y Meta Descriptions;
 
-meta robots;
+revisar Canonical y Meta Robots;
 
-redirecciones;
+verificar página 404;
 
-página 404;
+configurar Open Graph;
 
-HTTPS;
+revisar ALT de imágenes;
 
-Open Graph;
+analizar duplicaciones responsive.
 
-imágenes para redes sociales;
+14. SEO internacional
 
-textos ALT;
-
-títulos y descripciones;
-
-posibles páginas duplicadas;
-
-contenido responsive duplicado.
-
-14. Open Graph y redes sociales
-
-Se recomienda establecer una imagen corporativa específica para compartir el sitio.
-
-Características sugeridas:
-
-1200 × 630 px;
-
-JPG o PNG;
-
-identidad visual de Yeruvá;
-
-logo claramente visible;
-
-imagen relacionada con la actividad;
-
-diseño limpio y profesional.
-
-15. SEO internacional
-
-Dado el perfil industrial y B2B de Yeruvá, se recomienda evaluar en una etapa posterior si existe interés comercial en captar búsquedas fuera de Argentina.
-
-Podría analizarse:
+Dado el perfil B2B de Yeruvá, se recomienda evaluar en una etapa posterior:
 
 versión en inglés;
 
 arquitectura multidioma;
 
-implementación de hreflang;
+hreflang;
 
 mercados prioritarios;
 
 terminología técnica internacional;
 
-páginas específicas para exportación.
+páginas orientadas a exportación.
 
-16. Plan de implementación
+Esta estrategia únicamente debería implementarse si responde a objetivos comerciales concretos.
+
+15. Plan de implementación
 
 Etapa 1 — Base técnica
 
@@ -385,33 +347,33 @@ Revisar robots.txt.
 
 Verificar sitemap.
 
-Configurar Google Search Console.
+Configurar Search Console.
 
 Revisar indexación.
 
-Auditar Titles y Meta Descriptions.
+Auditar títulos y descripciones.
 
-Revisar canonical y meta robots.
+Revisar Canonical y Meta Robots.
 
 Verificar página 404.
 
 Configurar Open Graph.
 
-Etapa 2 — Estructura On-Page
+Etapa 2 — SEO On-Page
 
 Optimizar H1 de la Home.
 
 Reorganizar H2/H3/H4.
 
-Corregir duplicaciones responsive cuando sea posible.
+Revisar duplicaciones responsive.
 
-Optimizar Nosotros, Calidad e I+D+i.
+Optimizar páginas institucionales.
 
 Mejorar enlaces internos.
 
 Etapa 3 — Unidades de negocio
 
-Optimizar individualmente:
+Optimizar:
 
 Hemoderivados.
 
@@ -421,7 +383,7 @@ Levaduras.
 
 Etapa 4 — Productos
 
-Optimizar:
+Priorizar productos según importancia comercial y optimizar:
 
 Title.
 
@@ -441,9 +403,9 @@ Fichas técnicas.
 
 Etapa 5 — Autoridad temática
 
-Utilizar Novedades para publicar contenidos técnicos e institucionales relevantes y ampliar progresivamente el universo de búsquedas.
+Utilizar Novedades y contenido técnico para ampliar progresivamente el universo de búsquedas.
 
-17. Medición
+16. Medición
 
 Monitorear mediante Google Search Console:
 
@@ -459,18 +421,22 @@ posición media;
 
 páginas con mayor visibilidad;
 
-evolución de productos y unidades de negocio;
+cobertura e indexación;
 
-cobertura e indexación.
+evolución de unidades de negocio y productos.
 
-18. Resultado esperado
+17. Resultado esperado
 
-El objetivo es construir una arquitectura que permita que Google comprenda:
+El objetivo no es únicamente mejorar indicadores internos de herramientas SEO.
 
-Quién es Yeruvá, qué produce, para qué industrias trabaja, cuáles son sus unidades de negocio y qué productos ofrece.
+La estrategia busca que Google pueda comprender con claridad:
 
-19. Conclusión
+Quién es Yeruvá, qué produce, cuáles son sus unidades de negocio, qué aplicaciones tienen sus productos y para qué mercados desarrolla sus soluciones.
 
-Yeruvá ya cuenta con uno de los activos más difíciles de construir para una estrategia SEO B2B: conocimiento técnico, productos especializados y contenido propio.
+Esto permitirá ampliar progresivamente la presencia orgánica desde búsquedas de marca hacia consultas técnicas, comerciales y de producto.
 
-La estrategia recomendada consiste en estructurar correctamente la información existente y convertir las unidades de negocio y productos en activos de posicionamiento.
+18. Conclusión
+
+Yeruvá cuenta con una ventaja importante para desarrollar una estrategia SEO B2B: posee conocimiento técnico, productos especializados, documentación propia y unidades de negocio claramente diferenciadas.
+
+La estrategia propuesta busca ordenar estos activos y convertirlos en una arquitectura de posicionamiento sólida, escalable y alineada con los objetivos comerciales de la empresa.
